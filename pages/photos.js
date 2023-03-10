@@ -1,7 +1,7 @@
 'use client';
-import '../styles/globals.css';
+
 import { Footer, Navbar } from '../components';
-import styles from '../styles';
+
 
 const Photos = () => {
     return (
