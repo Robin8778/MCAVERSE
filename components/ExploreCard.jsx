@@ -37,7 +37,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
         </div>
        
         <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
-          Enter MCA❤️VERSE
+          Enter MCA❤️VERSE (Click here)
         </p>
         
         
