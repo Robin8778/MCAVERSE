@@ -5,6 +5,7 @@ import { socials } from '../constants';
 
 import styles from '../styles';
 import { footerVariants } from '../utils/motion';
+import Link from 'next/link';
 
 const Footer = () => (
   <motion.footer
